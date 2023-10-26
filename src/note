@@ -1,0 +1,34 @@
+API call in react;-
+------------------
+
+ajax   - async await
+-fetch-url
+
+-axios-inbuild library in react automotically convert data into json type.
+install commant- npm i axios
+
+methods in axios;-
+----------------
+post -create 
+get -read/access
+put -complte updation
+patch -path conversion
+delete -remove
+
+async await
+asuncronous function before argumnt -async
+await before asynchronous code
+
+aaccess url router params
+----------------
+useparagms-hook used to get parms in url
+
+destructuring
+----------
+eg;-
+user={name:"ánu" ,age:"'23"}
+
+name=user.name
+age=user.age
+
+var {name,age}=user   //this is called destructuring.
